@@ -1,0 +1,39 @@
+body {
+background-color: black;
+position: relative;
+}
+
+header {
+    width: 100%;
+    margin: 0px;
+    padding: 2px 0; /* Добавление отступа сверху */
+    background-color: hsl(0, 0%, 0%);
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;    
+    color: #fff;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(185, 171, 171);
+}
+    
+footer {
+    width: 100%;
+    margin: 0px;
+    padding: 20px 0; /* Добавление отступа сверху */
+    position: absolute;
+    background-color: black;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;    
+    color: #fff;
+    text-align: center;
+}
